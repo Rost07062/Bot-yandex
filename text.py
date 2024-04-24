@@ -1,0 +1,9 @@
+greeting = 'Привет это бот'
+list_of_themes = ['Тема 1', 'Тема 2', 'Тема 3']
+choosing_theme = 'Выбор темы'
+choosing_number_of_variants = 'Выбор количества вариантов'
+show_solution = 'Показать решение'
+next = 'Следующее'
+variants_are_over = 'Варианты закончились'
+one_more_time = 'Попробовать еще раз'
+retry_answer = 'Хорошо, вводите ваш ответ'
