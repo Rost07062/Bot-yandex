@@ -1,4 +1,4 @@
-greeting = 'Привет это бот'
+greeting = 'Привет! Это бот для подготовки к ЕГЭ по русскому.'
 list_of_themes = ['Тема 1', 'Тема 2', 'Тема 3']
 choosing_theme = 'Выбор темы'
 choosing_number_of_variants = 'Выбор количества вариантов'
